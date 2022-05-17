@@ -1,2 +1,2 @@
-# DIP-and-TV-NLM
-DIP+NLM and DIP+TV by python
+# DIP-and-TV-NLM(RED)
+DIP+NLM , DIP+TV and DIP+RED(TV) by python
